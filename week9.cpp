@@ -159,8 +159,8 @@ class BinaryHeap{
     { 
     	
         // Compare with left and right
-	int smallest;
-        if(left(i),right(i)< cSize)
+	int smallest=i;
+        if(left(i)||right(i)< cSize)
 	{
 		if(hArr[left(i)] < hArr[i])
 		{
