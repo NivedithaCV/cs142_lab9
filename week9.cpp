@@ -105,7 +105,7 @@ class BinaryHeap{
         // Base case for Heap with 1 value.
 	if(cSize == 1)
 	{
-        	cSize = 0;
+        	cSize = 0;return hArr[0];
         }
         // Copy the last element to the root. 
 	else
