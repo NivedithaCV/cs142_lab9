@@ -6,7 +6,7 @@ using namespace std;
 2 Rules for Binary Heap
 - Its a complete tree. -> So you can use an array
 - Either a max-heap or min-heap. 
-
+hihuiu
 Array Implementation 
 Root - A[0]
 
